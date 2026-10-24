@@ -1,0 +1,22 @@
+{
+  "name": "memorix-similarity-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/memorix-similarity: route a similarity query through a registered local backend.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/memorix-similarity": "1.32.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/memorix-similarity.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/memorix-similarity"
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-similarity",
+  "packageVersion": "1.32.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-similarity",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-similarity",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Route a similarity query through a registered local backend",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:28:44.046735+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "62b909b2515bb73c36e294e561f06e371efe72c27bfcd6e84108261944b5b34e",
+    "manifestSha256": "3dbbd8fb860bdf810dcf1c27cc2a94bc9ff97bdb4fd8b958f2ec5e34e5cfb6b6"
+  },
+  "validationFiles": {
+    "src/index.mjs": "62b909b2515bb73c36e294e561f06e371efe72c27bfcd6e84108261944b5b34e"
+  }
+}
